@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diffudist"]
+	path = diffudist
+	url = https://github.com/gbertagnolli/diffudist
+	shallow = true
+	registered = true
